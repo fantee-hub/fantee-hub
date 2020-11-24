@@ -12,7 +12,7 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 - 💬 Ask me about Javascript
 - 📫 You can reach me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Linkedin icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Linkedin icon without padding)
 
 [1]: https://twitter.com/king_kunmi?s=08
 [2]: https://www.linkedin.com/in/faniran-tobi-80a621127
