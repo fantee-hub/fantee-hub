@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tobi
+# Hi there! I'm Tobi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <!--
 **fantee-hub/fantee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
