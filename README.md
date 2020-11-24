@@ -27,4 +27,4 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 [1]: https://twitter.com/king_kunmi?s=08
 [3]: https://www.linkedin.com/in/faniran-tobi-80a621127
 
-![Tobi's github stats](https://github-readme-stats.vercel.app/api?username=fantee-hub&show_icons=true&theme=radical)](https://github.com/fantee-hub/github-readme-stats)
+[![Tobi's github stats](https://github-readme-stats.vercel.app/api?username=fantee-hub&show_icons=true&theme=radical)](https://github.com/fantee-hub/github-readme-stats)
