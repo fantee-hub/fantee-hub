@@ -1,9 +1,10 @@
 # Hi there! I'm Tobi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I am a Front End Developer from Nigeria. I care deeply about creating and designing useful web applications for people.
+I am a Front End Developer from Nigeria. I care deeply about creating and designing useful web applications for people. I am passionate about languages such as Html,Css,Javascript and Python. When i'm not developing or buildings things i watch movies,surfing the internet, watching football games.
+
 
 <!--
 **fantee-hub/fantee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
