@@ -7,12 +7,18 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 -->
 
 - 🔭 Recently built my portfolio you can check it out [here](https://kunmi.netlify.app)
+
 - 🌱 I’m currently learning python programming language. I am beginning a new journey into backend development.
-- 👯 I’m looking to collaborate on projects that can help boost my skillset
+
+- 👯 I’m looking to collaborate on projects that can help boost my skills
+
 - 💬 Ask me about Javascript
+
 - 📫 You can reach me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
+
 - 😄 Pronouns: He/Him/Tobi
-- ⚡ Fun fact: ...
+
+- ⚡ Fun fact: I love playing guitar. Not really a good guitarist but the melodies that comes out from when i play the guitar can make you fall in love with me 😄.
 
 
 
