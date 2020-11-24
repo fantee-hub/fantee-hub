@@ -10,12 +10,11 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 - 🌱 I’m currently learning python programming language. I am beginning a new journey into backend development.
 - 👯 I’m looking to collaborate on projects that can help boost my skillset
 - 💬 Ask me about Javascript
-- 📫 You can reach me on 
-    
+- 📫 You can reach me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
 - 😄 Pronouns: He/Him/Tobi
 - ⚡ Fun fact: ...
 
-[![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
+
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Linkedin icon without padding)
