@@ -1,5 +1,4 @@
 # Hi there! I'm Tobi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
----
 I am a Front End Developer from Nigeria. I care deeply about creating and designing useful web applications for people.
 
 <!--
