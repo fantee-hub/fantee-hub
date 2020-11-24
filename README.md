@@ -20,4 +20,4 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (Linkedin icon without padding)
 [1]: https://twitter.com/king_kunmi?s=08
-[2]: https://www.linkedin.com/in/faniran-tobi-80a621127
+[3]: https://www.linkedin.com/in/faniran-tobi-80a621127
