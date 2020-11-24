@@ -1,5 +1,5 @@
 # Hi there! I'm Tobi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I am a Front End Developer from Nigeria. I care deeply about creating and designing useful web applications for people. I am passionate about languages such as Html,Css,Javascript and Python. When i'm not developing or buildings things i watch movies,surfing the internet, watching football games.
+I am a Front End Developer from Nigeria. I care deeply about creating and designing useful web applications for people. I am passionate about languages such as Html,Css,Javascript and Python. When i'm not developing or buildings things i watch movies,surfing the internet, watch football games.
 
 
 <!--
@@ -7,8 +7,8 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Recently built my portfolio you can check it out [here](https://kunmi.netlify.app)
+- 🌱 I’m currently learning python programming language. I am beginning a new journey into backend development.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
