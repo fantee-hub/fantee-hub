@@ -16,7 +16,7 @@ I am a Front End Developer from Nigeria. I care deeply about creating and design
 
 - 📫 You can reach me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/Tobi
 
 - ⚡ Fun fact: "The only way to learn a new programming language is by writing programs in it". - Dennis Ritchie.
 
